@@ -30,5 +30,18 @@
       (function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = &#39;EMAIL&#39;; ftypes[0] = &#39;email&#39;; fnames[1] = &#39;FNAME&#39;; ftypes[1] = &#39;text&#39;; fnames[2] = &#39;LNAME&#39;; ftypes[2] = &#39;text&#39;; }(jQuery)); var $mcj = jQuery.noConflict(true);   </description>
     </item>
     
+    <item>
+      <title>Helfen</title>
+      <link>https://spieltage.ch/helping/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://spieltage.ch/helping/</guid>
+      <description>Hallo Freunde des gepflegten oder auch ungehemmten Spielens.
+Die nächsten Luzerner Spieltage stehen vor der Tür.
+Und dazu brauchen wir dich!
+Melde dich doch noch heute und gib deinen Traumjob an. Wir versuchen natürlich auf deine Wünsche einzugehen, sind aber froh wenn du flexibel bist.
+Unser Ziel ist es die Helfereinsätze so kurz wie möglich zu halten. Aber dafür sind wir auf viele Helfer angewiesen. Die Spieltage dauern wie folgt:</description>
+    </item>
+    
   </channel>
 </rss>
