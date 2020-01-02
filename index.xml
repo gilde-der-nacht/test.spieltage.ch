@@ -11,13 +11,34 @@
     
     
     <item>
+      <title>Test Spider</title>
+      <link>https://spieltage.ch/testspider/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://spieltage.ch/testspider/</guid>
+      <description> Test Spider A: ★
+B: ★★
+C: ★★★
+D: ★★★
+E: ★★
+F: ★
+ svg { border: 1px dashed #f0f; } text { font-size: 5em; }          A B C D E F   Anfängerfreundlich: ★
+Für die ganze Familie: ★★
+Burgen &amp;amp; Rittertum: ★★★
+Magie &amp;amp; Zauberwerk: ★★★
+Rätsel: ★★
+Improvisation: ★
+ svg { border: 1px dashed #f0f; } text { font-size: 5em; }          Anfängerfreundlich Für die ganze Familie Burgen &amp;amp; Rittertum Magie &amp;amp; Zauberwerk Rätsel Improvisation   </description>
+    </item>
+    
+    <item>
       <title>Kontakt</title>
       <link>https://spieltage.ch/contact/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://spieltage.ch/contact/</guid>
       <description>Wir hören gerne von dir und antworten dir auch innerhalb von 24 Stunden.
- Name * E-Mail * Nachricht *     </description>
+ Name * E-Mail * Nachricht *  Leer lassen document.querySelector(&#39;.c-form--captcha&#39;).style.display = &#39;none&#39;;    </description>
     </item>
     
     <item>
